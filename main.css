@@ -1,0 +1,17 @@
+body {
+    background-color: #F1FEF8 ;
+}
+header{
+   background-color: #B0E4CB;
+   height: 75px;
+}
+.nav-link{
+margin-right: 1em !important;
+}
+.navbar-collapse{
+   justify-content: flex-end;
+}
+button{
+color: #3B7877;
+  background: #B0E4CB;
+  }
